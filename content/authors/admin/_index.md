@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Bióloga
+role: Bióloga orientada a ecología y bioestadística
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
