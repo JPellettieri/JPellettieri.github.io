@@ -36,7 +36,7 @@ profiles:
     url: https://www.linkedin.com/in/julieta-pellettieri-714340312/?originalSubdomain=ar
 
 
-Intereses:
+interest:
   - Bioestadística
   - Ecología
   - Estudios de impacto ambiental
