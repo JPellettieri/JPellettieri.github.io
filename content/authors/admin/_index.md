@@ -61,8 +61,14 @@ skills:
     items:
       - name: Python
         description: ''
+        percent: 50
+        icon: <i class="devicon-python-plain"></i>
+          
+      - name: R
+        description: ''
         percent: 80
-        icon: code-bracket
+        icon: <i class="devicon-r-plain"></i>
+          
       - name: Data Science
         description: ''
         percent: 100
