@@ -37,19 +37,17 @@ profiles:
 
 
 interest:
- Fields of interest
  - Biostatistics  
  - Ecology  
  - Environmental Impact Studies  
  - Infographics  
  - Teaching and Science Communication
-
-research Interests:
- - Climate Change
- - Epidemiology
- - Animal Behavior
- - Entomology
- - Agroecology  
+ - Research Interests:
+    - Climate Change
+    - Epidemiology
+    - Animal Behavior
+    - Entomology
+    - Agroecology  
 
 education:
   - area: Licentiate in Biology (6-years degree)
