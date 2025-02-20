@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Bióloga orientada a ecología y bioestadística
+role: Ecologist | Biologist | Biostatistician
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -48,7 +48,7 @@ education:
   - area: Licentiate in Biology (6-years degree)
     institution: Universidad de Buenos Aires (UBA)
     date_start: 2019-01-01
-    date_end: 2025-04
+    date_end: 2025-04-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
