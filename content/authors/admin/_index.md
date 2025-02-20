@@ -37,11 +37,18 @@ profiles:
 
 
 interest:
+ Fields of interest
  - Biostatistics  
  - Ecology  
  - Environmental Impact Studies  
  - Infographics  
- - Teaching and Science Communication  
+ - Teaching and Science Communication
+ Research Interests
+ - Climate Change
+ - Epidemiology
+ - Animal Behavior
+ - Entomology
+ - Agroecology  
 
 education:
   - area: PhD Artificial Intelligence
