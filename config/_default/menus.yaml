@@ -7,10 +7,13 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Papers
-    url: /#papers
+  - name: Projects
+    url: projects/
+    weight: 30
+  - name: Awards & Recognitions
+    url: /#certificados
     weight: 11
-  - name: Talks
+  - name: Science Communication & Outreach
     url: /#talks
     weight: 12
   - name: News
@@ -19,9 +22,7 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-  - name: Projects
-    url: projects/
-    weight: 30
+
   - name: Teaching
     url: teaching/
     weight: 40
