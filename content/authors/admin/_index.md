@@ -36,21 +36,6 @@ profiles:
     url: https://www.linkedin.com/in/julieta-pellettieri-714340312/?originalSubdomain=ar
 
 
-interest:
- - Biostatistics  
- - Ecology  
- - Environmental Impact Studies  
- - Infographics  
- - Teaching and Science Communication
-
-research_interests:
- - Climate Change
- - Epidemiology
- - Animal Behavior
- - Entomology
- - Agroecology 
-
-
 education:
   - area: Licentiate in Biology (6-years degree)
     institution: Universidad de Buenos Aires (UBA)
