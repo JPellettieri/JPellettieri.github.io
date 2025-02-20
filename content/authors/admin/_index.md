@@ -43,7 +43,8 @@ interest:
  - Environmental Impact Studies  
  - Infographics  
  - Teaching and Science Communication
- Research Interests
+
+research Interests:
  - Climate Change
  - Epidemiology
  - Animal Behavior
