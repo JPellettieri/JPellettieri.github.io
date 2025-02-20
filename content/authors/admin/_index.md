@@ -37,11 +37,11 @@ profiles:
 
 
 interest:
-  - Bioestadística
-  - Ecología
-  - Estudios de impacto ambiental
-  - Infographics
-  - Enseñanza y Divulgación
+ - Biostatistics  
+ - Ecology  
+ - Environmental Impact Studies  
+ - Infographics  
+ - Teaching and Science Communication  
 
 education:
   - area: PhD Artificial Intelligence
