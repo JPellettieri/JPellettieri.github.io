@@ -42,12 +42,13 @@ interest:
  - Environmental Impact Studies  
  - Infographics  
  - Teaching and Science Communication
- - Research Interests:
-    - Climate Change
-    - Epidemiology
-    - Animal Behavior
-    - Entomology
-    - Agroecology  
+
+research_interests:
+ - Climate Change
+ - Epidemiology
+ - Animal Behavior
+ - Entomology
+ - Agroecology 
 
 
 education:
