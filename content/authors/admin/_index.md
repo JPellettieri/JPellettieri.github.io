@@ -53,29 +53,6 @@ education:
     date_start: 2013-01-01
     date_end: 2018-12-31
 
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -119,6 +96,31 @@ languages:
   - name: Portuguese
     percent: 25
 
+    work:
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -153,18 +155,22 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I work at the intersection of data analysis and science communication. I am interested in understanding natural patterns through quantitative tools while also finding effective ways to convey that knowledge.
+
+I enjoy transforming data into clear and engaging visualizations, making complex information more accessible. My approach combines analytical rigor with creativity, bringing a fresh perspective to problem-solving and teamwork.
+
+I am always open to new opportunities and collaborations.
 
 <div style="display: flex; justify-content: space-between;">
 
 <div style="flex: 1; margin-right: 10px;">
   <h3>Fields of interests</h3>
   <ul>
-    <li>Biostatistics</li>
-    <li>Ecology</li>
     <li>Environmental Impact Studies</li>
     <li>Infographics</li>
     <li>Teaching and Science Communication</li>
+    <li>Research</li>
+    <li>Data science</li>
   </ul>
 </div>
 
