@@ -188,7 +188,7 @@ Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab
 <div style="display: flex; justify-content: space-between;">
 
 <div style="flex: 1; margin-right: 10px;">
-  <h3>Interests</h3>
+  <h3>Fields of interests</h3>
   <ul>
     <li>Biostatistics</li>
     <li>Ecology</li>
