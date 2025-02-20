@@ -42,32 +42,17 @@ education:
     date_start: 2019-01-01
     date_end: 2025-04-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      GPA: [8.9 /10.0] (https://drive.google.com/file/d/1KUUQ_Ds0DfOSCRr8HmXTemSEqA4rqDC8/view?usp=sharing)
+
+      Thesis on bumblebee behavior in the context of targeted pollination. Supervised by [Doc. Walter Farina](https://ifibyne.exactas.uba.ar/cv-farina/). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: Natural Sciences
+    institution: Colegio Nacional Buenos Aires
+    date_start: 2013-01-01
+    date_end: 2018-12-31
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
