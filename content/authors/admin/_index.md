@@ -51,10 +51,10 @@ interest:
  - Agroecology  
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Licentiate in Biology (6-years degree)
+    institution: Universidad de Buenos Aires (UBA)
+    date_start: 2019-01-01
+    date_end: 2025-04
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
