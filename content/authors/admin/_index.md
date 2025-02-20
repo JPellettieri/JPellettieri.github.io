@@ -41,10 +41,10 @@ education:
     institution: Universidad de Buenos Aires (UBA)
     date_start: 2019-01-01
     date_end: 2025-04-01
-    summary: |
-      GPA: [8.9 /10.0] (https://drive.google.com/file/d/1KUUQ_Ds0DfOSCRr8HmXTemSEqA4rqDC8/view?usp=sharing)
+    summary:
+      - GPA: [8.9 /10.0] (https://drive.google.com/file/d/1KUUQ_Ds0DfOSCRr8HmXTemSEqA4rqDC8/view?usp=sharing)
 
-      Thesis on bumblebee behavior in the context of targeted pollination. Supervised by [Doc. Walter Farina](https://ifibyne.exactas.uba.ar/cv-farina/). 
+      - Thesis on bumblebee behavior in the context of targeted pollination. Supervised by [Doc. Walter Farina](https://ifibyne.exactas.uba.ar/cv-farina/). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
