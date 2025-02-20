@@ -30,18 +30,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:julipellettieri@gmail.com'
     label: E-mail Me
-  - icon: 
-    url: 
   - icon: brands/github
     url: https://github.com/jpellettieri
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/julieta-pellettieri-714340312/?originalSubdomain=ar
 
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Intereses:
+  - Bioestadística
+  - Ecología
+  - Estudios de impacto ambiental
+  - Infographics
+  - Enseñanza y Divulgación
 
 education:
   - area: PhD Artificial Intelligence
