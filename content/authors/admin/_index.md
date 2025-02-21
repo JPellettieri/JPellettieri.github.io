@@ -65,8 +65,12 @@ skills:
         description: ''
       - name: R & Python
         description: ''
-        percent: 90
+        percent: 80
         icon: hero/code-bracket
+      - name: Excel
+        description: ''
+        percent: 80
+        icon: table        
 
     
   - name: Infographics & Data Visualization
@@ -77,14 +81,15 @@ skills:
         description: ''
         percent: 80
         icon: hero/paint-brush
-      - name: R Markdown & LaTeX
-        description: ''
-        percent: 70
-        icon: document-text
+      
       - name: Power Point, Canvas & Google slides
         description: ''
         percent: 95
         icon: presentation-chart-bar
+      - name: R Markdown & LaTeX
+        description: ''
+        percent: 70
+        icon: document-text
 
   - name: Hobbies
     color: '#eeac02'
