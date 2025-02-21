@@ -68,7 +68,7 @@ skills:
       - name: R
         description: ''
         percent: 80
-        icon: R         
+        icon: r-proyect         
       - name: Data Science
         description: ''
         percent: 100
