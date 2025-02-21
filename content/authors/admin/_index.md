@@ -70,7 +70,7 @@ skills:
       - name: Excel
         description: ''
         percent: 80
-        icon: table        
+        icon: hero/table-cells      
 
     
   - name: Infographics & Data Visualization
