@@ -60,19 +60,13 @@ education:
           
 skills:
   - name: Data Analysis & Statistics
+    summary: Database Management, Statistical Inference, Data Modeling (GLMs, GLMMs)
     items:
       - name: R & Python
         description: ''
         percent: 90
         icon: hero/code-bracket
-      - name: Statistical Inference
-        description: ''
-        percent: 85
-        icon: chart-bar
-      - name: Data Modeling (GLMs, GLMMs)
-        description: ''
-        percent: 80
-        icon: cog
+
     
   - name: Science Communication & Visualization
     items:
