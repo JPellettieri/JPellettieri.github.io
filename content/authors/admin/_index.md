@@ -68,11 +68,11 @@ skills:
       - name: R Studio
         description: ''
         percent: 80
-        icon: devicon-r-plain
+        icon: devicon/r-plain
       - name: Graphic Design
         description: ''
         percent: 80
-        icon: devicon-illustrator-plain  
+        icon: devicon/illustrator-plain  
       - name: Data Science
         description: ''
         percent: 100
