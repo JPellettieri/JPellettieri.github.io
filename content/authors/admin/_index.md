@@ -60,28 +60,31 @@ education:
           
 skills:
   - name: Data Analysis & Statistics
-    summary: Database Management, Statistical Inference, Data Modeling (GLMs, GLMMs)
     items:
+      - name: Database Management, Statistical Inference, Data Modeling (GLMs, GLMMs)
+
       - name: R & Python
         description: ''
         percent: 90
         icon: hero/code-bracket
 
     
-  - name: Science Communication & Visualization
+  - name: Infographics & Data Visualization
     items:
-      - name: Infographics & Data Visualization
+      - name: Posters, presentations & reports
+      - name: Illustrator & Inkscape 
         description: ''
-        percent: 90
+        percent: 80
         icon: hero/paint-brush
       - name: R Markdown & LaTeX
         description: ''
-        percent: 80
+        percent: 70
         icon: document-text
-      - name: Poster & Presentation Design
+      - name: Power Point, Canvas & Google slides
         description: ''
         percent: 95
         icon: presentation-chart-bar
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
