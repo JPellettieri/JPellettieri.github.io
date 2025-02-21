@@ -62,7 +62,7 @@ skills:
   - name: Data Analysis & Statistics
     items:
       - name: Database Management, Statistical Inference, Data Modeling (GLMs, GLMMs)
-
+        description: ''
       - name: R & Python
         description: ''
         percent: 90
@@ -72,6 +72,7 @@ skills:
   - name: Infographics & Data Visualization
     items:
       - name: Posters, presentations & reports
+        description: ''
       - name: Illustrator & Inkscape 
         description: ''
         percent: 80
