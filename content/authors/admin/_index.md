@@ -61,18 +61,18 @@ education:
 skills:
   - name: Data Analysis & Statistics
     items:
-      - name: R (tidyverse, ggplot2, emmeans, lme4)
+      - name: R & Python
         description: ''
         percent: 90
         icon: hero/code-bracket
-      - name: Experimental Design & Statistical Inference
+      - name: Statistical Inference
         description: ''
         percent: 85
         icon: chart-bar
-      - name: Generalized & Mixed Models (GLMs, GLMMs)
+      - name: Data Modeling (GLMs, GLMMs)
         description: ''
         percent: 80
-        icon: variable
+        icon: cog
     
   - name: Science Communication & Visualization
     items:
