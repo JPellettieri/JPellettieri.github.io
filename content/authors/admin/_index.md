@@ -59,28 +59,35 @@ education:
 
           
 skills:
-  - name: Technical Skills
+  - name: Data Analysis & Statistics
     items:
-      - name: Python
+      - name: R (tidyverse, ggplot2, emmeans, lme4)
         description: ''
-        percent: 50
-        icon: python           
-      - name: R Studio
-        description: ''
-        percent: 80
+        percent: 90
         icon: hero/code-bracket
-      - name: Graphic Design
+      - name: Experimental Design & Statistical Inference
+        description: ''
+        percent: 85
+        icon: chart-bar
+      - name: Generalized & Mixed Models (GLMs, GLMMs)
         description: ''
         percent: 80
-        icon: hero/paint-brush 
-      - name: Data Science
+        icon: variable
+    
+  - name: Science Communication & Visualization
+    items:
+      - name: Infographics & Data Visualization
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 90
+        icon: hero/paint-brush
+      - name: R Markdown & LaTeX
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 80
+        icon: document-text
+      - name: Poster & Presentation Design
+        description: ''
+        percent: 95
+        icon: presentation-chart-bar
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
