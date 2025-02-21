@@ -65,7 +65,7 @@ skills:
         description: ''
         percent: 50
         icon: python           
-      - name: R
+      - name: R Studio
         description: ''
         percent: 80
         icon: <i class="fa-solid fa-r"></i>
