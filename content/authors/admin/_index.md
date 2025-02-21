@@ -68,11 +68,11 @@ skills:
       - name: R
         description: ''
         percent: 80
-        icon: code   
+        icon: code
       - name: Graphic Design
         description: ''
         percent: 80
-        icon: art     
+        icon: art   
       - name: Data Science
         description: ''
         percent: 100
