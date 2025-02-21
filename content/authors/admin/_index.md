@@ -72,7 +72,7 @@ skills:
       - name: Graphic Design
         description: ''
         percent: 80
-        icon: palette     
+        icon: art     
       - name: Data Science
         description: ''
         percent: 100
