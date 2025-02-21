@@ -44,7 +44,7 @@ education:
     summary: |
       - GPA: [8.9 /10.0](https://drive.google.com/file/d/1KUUQ_Ds0DfOSCRr8HmXTemSEqA4rqDC8/view?usp=sharing)
 
-      - Thesis on bumblebee behavior in the context of targeted pollination. Supervised by [Doc. Walter Farina](https://ifibyne.exactas.uba.ar/cv-farina/). 
+      - Thesis on bumblebee behavior in the context of targeted pollination. Supervised by [Dr. Walter Farina](https://ifibyne.exactas.uba.ar/cv-farina/). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -68,7 +68,7 @@ skills:
       - name: R
         description: ''
         percent: 80
-        icon: Rstudio          
+        icon: R         
       - name: Data Science
         description: ''
         percent: 100
