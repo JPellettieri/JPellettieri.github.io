@@ -106,7 +106,7 @@ skills:
         description: ''
         percent: 50
         icon: globe-alt
-      - name: GBIF (Biodiversity Data)
+      - name: GBIF
         description: ''
         percent: 70
         icon: fontawesome/seedling
