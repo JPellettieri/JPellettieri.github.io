@@ -68,7 +68,7 @@ skills:
       - name: R Studio
         description: ''
         percent: 80
-        icon: devicon/Rstudio
+        icon: hero/code-bracket-square
       - name: Graphic Design
         description: ''
         percent: 80
