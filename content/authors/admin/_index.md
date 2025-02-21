@@ -70,7 +70,7 @@ skills:
       - name: Excel
         description: ''
         percent: 80
-        icon: hero/table-cells      
+        icon: hero/chart-bar-square      
 
     
   - name: Infographics & Data Visualization
@@ -90,6 +90,26 @@ skills:
         description: ''
         percent: 70
         icon: document-text
+
+
+  - name: Environmental Data Sources
+    items:
+      - name: QGIS
+        description: ''
+        percent: 40
+        icon: map
+      - name: NOAA Data Tools
+        description: ''
+        percent: 30
+        icon: cloud
+      - name: Google Earth Engine
+        description: ''
+        percent: 50
+        icon: globe-alt
+      - name: GBIF (Biodiversity Data)
+        description: ''
+        percent: 70
+        icon: leaf
 
   - name: Hobbies
     color: '#eeac02'
