@@ -109,7 +109,7 @@ skills:
       - name: GBIF
         description: ''
         percent: 70
-        icon: fontawesome/seedling
+        icon: hb/seedling
 
   - name: Hobbies
     color: '#eeac02'
