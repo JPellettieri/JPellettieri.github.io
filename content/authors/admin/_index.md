@@ -109,7 +109,7 @@ skills:
       - name: GBIF (Biodiversity Data)
         description: ''
         percent: 70
-        icon: leaf
+        icon: fontawesome/seedling
 
   - name: Hobbies
     color: '#eeac02'
