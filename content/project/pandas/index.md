@@ -1,13 +1,12 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Estudio del desarrollo radicular en biorrollos para la reintroducción de plantas acuáticas en arroyos urbanos.
+date: 2023-9-11
+external_link: https://github.com/JPellettieri/GAB
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - R
+  - illustrator
+  - Power Point
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
 
 <!--more-->
