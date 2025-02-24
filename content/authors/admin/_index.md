@@ -59,9 +59,8 @@ education:
 
 skills:
   - name: Data Analysis & Statistics
+  - subtitle: Database Management, Statistical Inference, Data Modeling (GLMs, GLMMs)
     items:
-      - name: Database Management, Statistical Inference, Data Modeling (GLMs, GLMMs)
-        description: ''
       - name: R & Python
         description: ''
         percent: 80
