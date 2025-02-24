@@ -30,10 +30,12 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: skills
+  - block: resume-skills
     content:
       title: Skills & Tolls
       username: admin
+    design:
+      show_skill_percentage: false
   - block: markdown
     content:
       title: '📚 My Research'

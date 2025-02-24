@@ -73,7 +73,7 @@ skills:
     
   - name: Infographics & Data Visualization
     items:
-      - name: Posters, presentations & reports
+      - name: _Posters, presentations & reports_
         description: ''
       - name: Illustrator & Inkscape 
         description: ''
