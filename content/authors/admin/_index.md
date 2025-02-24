@@ -109,7 +109,7 @@ skills:
       - name: GBIF
         description: ''
         percent: 70
-        icon: hb/seedling
+        icon: hero/leaf
 
   - name: Hobbies
     color: '#eeac02'
@@ -119,10 +119,10 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Scientific illustration
         description: ''
         percent: 100
-        icon: cat
+        icon: bug
       - name: Photography
         description: ''
         percent: 80
