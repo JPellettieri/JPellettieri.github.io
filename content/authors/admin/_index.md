@@ -58,7 +58,7 @@ education:
 # Add your own SVG icons to `assets/media/icons/`  
 
 skills:
-  - name: Data Analysis & Statistics
+  - title: Data Analysis & Statistics
   - subtitle: Database Management, Statistical Inference, Data Modeling (GLMs, GLMMs)
     items:
       - name: R & Python
@@ -71,7 +71,7 @@ skills:
         icon: hero/chart-bar-square      
 
     
-  - name: Infographics & Data Visualization
+  - title: Infographics & Data Visualization
     items:
       - name: Posters, presentations & reports
         description: ''
