@@ -110,6 +110,7 @@ skills:
         percent: 70
         icon: hero/leaf
 
+Hobbies:
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

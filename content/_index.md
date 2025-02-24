@@ -122,12 +122,5 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
-  - block: markdown
-    id: skills
-    content:
-      title: "Skills & Tools"
-    design:
-      view: compact
-      background:
-        color: gray
+
 ---
