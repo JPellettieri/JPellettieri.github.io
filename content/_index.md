@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: resume-skills
+  - block: skills
     content:
       title: Skills & Tolls
       username: admin
