@@ -58,3 +58,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+
+[params]
+skills_section_title = "Skills & Hobbies"

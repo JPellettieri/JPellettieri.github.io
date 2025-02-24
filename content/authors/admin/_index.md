@@ -55,10 +55,7 @@ education:
 
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
-
-[params]
-skills_section_title = "Skills & Tools"   
+# Add your own SVG icons to `assets/media/icons/`  
 
 skills:
   - name: Data Analysis & Statistics
