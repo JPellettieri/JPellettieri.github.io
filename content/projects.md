@@ -17,7 +17,7 @@ sections:
         folders:
           - project
     design:
-      columns: '3'
+      columns: '2'
       # Choose your content listing view 
       view: article-grid
       fill_image: true
