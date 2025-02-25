@@ -8,6 +8,6 @@ tags:
   - Illustrator
 ---
 |
-"Comprehensive exploratory analysis and non-parametric tests on data collected by the Arroyo San Francisco cooperative, which focuses on urban stream restoration through phytoremediation.
+"Comprehensive exploratory analysis and non-parametric tests on data collected by the Arroyo San Francisco cooperative, which focuses on urban stream restoration through phytoremediation.<br> 
 R  |  Power Point  |   illustrator  "
 <!--more-->
