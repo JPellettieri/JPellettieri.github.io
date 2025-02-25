@@ -171,7 +171,7 @@ awards:
     summary: |
       Awarded first place in the International Statistical Literacy Project (ISLP) competition in the university category for outstanding statistical research and presentation.
 
-  - title: 🐦 Community Ecology Poster Competition (CMEC) – First Plac
+  - title: 🐦 Community Ecology Poster Competition (CMEC) – First Place
     date: 2023-09-25
     awarder: CMEC
     # icon: hero/presentation-chart-bar
