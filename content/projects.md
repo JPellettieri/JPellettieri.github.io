@@ -15,9 +15,7 @@ sections:
       # Display content from the `content/project/` folder
       filters:
         folders:
-          - project/project 1
-          - project/project 2
-          - project/project 3
+          - project
     design:
       # Choose your content listing view 
       view: cards
