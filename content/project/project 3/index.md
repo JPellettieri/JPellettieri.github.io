@@ -1,13 +1,13 @@
 ---
-title: scikit-learn
+title: Socioeconomic Inequities in PAP Screening: A National Survey Analysis
 date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+external_link: 
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - ENFR
+  - R
+  - Illustrator
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Analysis of data from a National Risk Factor Survey to assess socioeconomic determinants contributing to disparities in Papanicolaou (PAP) test uptake.
 
 <!--more-->
