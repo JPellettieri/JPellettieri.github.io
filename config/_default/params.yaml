@@ -59,5 +59,3 @@ features:
   privacy_pack:
     enable: false
 
-appearance:
-  color: green
