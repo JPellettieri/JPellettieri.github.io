@@ -1,13 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+title: Study of root development in bio-rolls for the reintroduction of aquatic plants in urban streams.
+date: 2023-9-11
+external_link: https://github.com/JPellettieri/GAB
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Comprehensive exploratory analysis and non-parametric tests on data collected by the Arroyo San Francisco cooperative, which focuses on urban stream restoration through phytoremediation.
+
+R  |  Illustrator  |  Power Point
 
 <!--more-->
