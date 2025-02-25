@@ -63,11 +63,11 @@ skills:
       - name: _Database Management, Statistical Inference, Data Modeling (GLMs, GLMMs)_
       - name: R & Python
         description: ''
-        percent: 80
+        percent: 85
         icon: hero/code-bracket
       - name: Excel
         description: ''
-        percent: 0
+        percent: 70
         icon: hero/chart-bar-square      
 
     
