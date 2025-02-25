@@ -104,7 +104,7 @@ skills:
         description: ''
         percent: 50
         icon: globe-alt
-      - name: 🌱 GBIF
+      - name: 🍃 GBIF
         description: ''
         percent: 70
 
