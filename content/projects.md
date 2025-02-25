@@ -19,8 +19,6 @@ sections:
           - project/project 2
           - project/project 3
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
       # Choose your content listing view 
       view: card
       # For the Showcase view, do you want to flip alternate rows?
