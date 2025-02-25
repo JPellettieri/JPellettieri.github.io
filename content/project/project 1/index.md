@@ -3,7 +3,7 @@ title: Root development in bio-rolls for the reintroduction of aquatic plants in
 date: 2023-09-11
 external_link: https://github.com/JPellettieri/GAB
 tags:
-  - R  |  Power Point  | Illustrator
+  - R 
 ---
 
 Comprehensive exploratory analysis and non-parametric tests on data collected by the Arroyo San Francisco cooperative, which focuses on urban stream restoration through phytoremediation.   
