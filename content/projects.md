@@ -19,7 +19,8 @@ sections:
     design:
       columns: '3'
       # Choose your content listing view 
-      view: card
+      view: article-grid
+      fill_image: false
       # For the Showcase view, do you want to flip alternate rows?
       #flip_alt_rows: true
 ---
