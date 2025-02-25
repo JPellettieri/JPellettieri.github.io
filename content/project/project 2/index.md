@@ -1,13 +1,12 @@
 ---
-title: PyTorch
+title: Bayesian Estimation of Rodent Age from Morphometrics
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+external_link: https://github.com/JPellettieri/Roedores
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Illustrator
+  - R Studio
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+A Bayesian inference approach was used to estimate rodent age based on weight and length measurements, providing probabilistic insights into age determination.
 
 <!--more-->
