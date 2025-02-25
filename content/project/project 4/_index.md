@@ -1,4 +1,3 @@
-
 ---
 title: Bird Assemblages in Eucalyptus Plantations.
 date: 2023-07-01
