@@ -1,7 +1,7 @@
 ---
-title: Socioeconomic Inequities in PAP Screening: A National Survey Analysis
+title: "Socioeconomic Inequities in PAP Screening: A National Survey Analysis"
 date: 2023-10-26
-external_link: 
+external_link: https://github.com/JPellettieri/Pap-smear
 tags:
   - INDEC
 ---
