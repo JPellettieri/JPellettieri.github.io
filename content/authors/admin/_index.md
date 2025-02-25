@@ -178,7 +178,7 @@ awards:
       Recipient of the CIN Research Scholarship (Beca Estímulo) for undergraduate research excellence.
 
   - title: Young Biometricians Competition (GAB, IBS) – First Place (Undergraduate Category)
-    link: cert concurso JB GAB 2024 .pdf
+    link: https://drive.google.com/file/d/1UJ_FJQ_NCJkEOyAd3rCtsIkC7lCZStB6/view?usp=sharing
     date: '2024'
     awarder: International Biometric Society (IBS)
     icon: chart-line
