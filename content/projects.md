@@ -18,7 +18,7 @@ sections:
           - project
     design:
       # Choose your content listing view 
-      view: cards
+      view: showcase
       # For the Showcase view, do you want to flip alternate rows?
-      #flip_alt_rows: true
+      flip_alt_rows: true
 ---
