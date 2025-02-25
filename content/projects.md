@@ -9,7 +9,7 @@ sections:
   - block: collection
     id: projects
     content:
-      title: Section 1
+      title: Projects
       subtitle: A subtitle
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       # Display content from the `content/project/` folder
@@ -20,7 +20,7 @@ sections:
           - project/project 3
     design:
       # Choose your content listing view 
-      view: card
+      view: cards
       # For the Showcase view, do you want to flip alternate rows?
       #flip_alt_rows: true
 ---
