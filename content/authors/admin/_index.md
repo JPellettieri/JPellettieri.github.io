@@ -184,7 +184,7 @@ awards:
     icon: chart-line
     summary: |
       Secured first place in the Young Biometricians Competition (GAB, IBS) in the undergraduate category for excellence in biometric analysis.
-
+---
 ## About Me
 
 I work at the intersection of data analysis and science communication. I am interested in understanding natural patterns through quantitative tools while also finding effective ways to convey that knowledge.
