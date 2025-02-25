@@ -15,7 +15,9 @@ sections:
       # Display content from the `content/project/` folder
       filters:
         folders:
-          - project
+          - project 1
+          - project 2
+          - project 3
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
