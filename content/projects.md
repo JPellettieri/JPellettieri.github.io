@@ -20,7 +20,7 @@ sections:
       columns: '3'
       # Choose your content listing view 
       view: article-grid
-      fill_image: false
+      fill_image: true
       # For the Showcase view, do you want to flip alternate rows?
       #flip_alt_rows: true
 ---

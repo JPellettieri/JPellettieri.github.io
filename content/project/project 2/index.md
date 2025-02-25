@@ -7,6 +7,5 @@ tags:
   - R Studio
 ---
 
-A Bayesian inference approach was used to estimate rodent age based on weight and length measurements, providing probabilistic insights into age determination.
-
-<!--more-->
+A Bayesian inference approach was used to estimate rodent age based on weight and length measurements, <!--more--> 
+providing probabilistic insights into age determination. 
