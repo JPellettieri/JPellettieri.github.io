@@ -163,7 +163,7 @@ awards:
       First place in the internal faculty competition for community ecology posters, organized by the Faculty of Exact and Natural Sciences (FCEN).
 
   - title: Outstanding Student Recognition – FCEN
-    date: 'Pending'
+    #date: 'Pending'
     awarder: Faculty of Exact and Natural Sciences (FCEN)
     icon: academic-cap
     summary: |
