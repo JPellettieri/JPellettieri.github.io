@@ -1,6 +1,6 @@
 ---
 title: Bird Assemblages in Eucalyptus Plantations.
-date: 2023-07-01
+date: 2023-11-01
 external_link: https://github.com/JPellettieri/Plantaciones
 tags:
   - Biodiversity - Power Point
