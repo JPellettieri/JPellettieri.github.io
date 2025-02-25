@@ -10,6 +10,6 @@ tags:
 
 Comprehensive exploratory analysis and non-parametric tests on data collected by the Arroyo San Francisco cooperative, which focuses on urban stream restoration through phytoremediation.   
 
-<p style="color:grey;">R  |  Power Point  |   illustrator</p>
+*R  |  Power Point  |   illustrator*
 __ 
 <!--more-->
