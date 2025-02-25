@@ -17,9 +17,9 @@ sections:
         folders:
           - project
     design:
-      columns: '2'
+      columns: '3'
       # Choose your content listing view 
-      view: showcase
+      view: card
       # For the Showcase view, do you want to flip alternate rows?
-      flip_alt_rows: true
+      #flip_alt_rows: true
 ---
