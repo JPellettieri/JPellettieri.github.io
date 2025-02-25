@@ -151,21 +151,21 @@ awards:
     url: https://iase-web.org/islp/Poster_Competition_2022-2023.php?p=Prizewinners
     date: 2023-07-20
     awarder: ISLP
-    icon: chart-bar
+    icon: hero/sparkles
     summary: |
       Awarded first place in the International Statistical Literacy Project (ISLP) competition in the university category for outstanding statistical research and presentation.
 
   - title: Community Ecology Poster Competition (CMEC) – First Plac
     date: 2023-09-25
     awarder: CMEC
-    icon: presentation-chart-bar
+    icon: hero/presentation-chart-bar
     summary: |
       First place in the internal faculty competition for community ecology posters, organized by the Faculty of Exact and Natural Sciences (FCEN).
 
   - title: Outstanding Student Recognition – FCEN
     #date: 'Pending'
     awarder: Faculty of Exact and Natural Sciences (FCEN)
-    icon: academic-cap
+    icon: hero/academic-cap
     summary: |
       Nominated for recognition as an outstanding student by the Faculty of Exact and Natural Sciences.
 
@@ -173,7 +173,7 @@ awards:
     url: https://drive.google.com/file/d/10qv-lMgPmp05uwGoSshO-0davJLjrG08/view?usp=drive_link 
     date: 2024-09-17
     awarder: National Interuniversity Council (CIN)
-    icon: academic-cap
+    icon: hero/academic-cap
     summary: |
       Recipient of the CIN Research Scholarship (Beca Estímulo) for undergraduate research excellence.
 
@@ -181,7 +181,7 @@ awards:
     link: https://drive.google.com/file/d/1UJ_FJQ_NCJkEOyAd3rCtsIkC7lCZStB6/view?usp=sharing
     date: 2024-10-09
     awarder: International Biometric Society (IBS)
-    icon: chart-line
+    icon: hero/command-line
     summary: |
       Secured first place in the Young Biometricians Competition (GAB, IBS) in the undergraduate category for excellence in biometric analysis.
 ---
