@@ -1,6 +1,6 @@
 ---
 title: "Socioeconomic Inequities in PAP Screening: A National Survey Analysis"
-date: 2023-10-26
+date: 2022-11-05
 external_link: https://github.com/JPellettieri/Pap-smear
 tags:
   - INDEC - Adobe - R Studio
