@@ -46,7 +46,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: resume-project
+  - block: project
     id: projects
     content:
       title: 
