@@ -46,7 +46,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: project
+  - block: collection
     id: projects
     content:
       title: 
