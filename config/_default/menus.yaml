@@ -11,7 +11,7 @@ main:
     url: projects/
     weight: 30
   - name: Awards & Recognitions
-    url: /#certificados
+    url: /#awards
     weight: 11
   - name: Science Communication & Outreach
     url: /#talks

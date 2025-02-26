@@ -48,7 +48,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://docs.google.com/document/d/1kiPVFcPTGH6brlOvrDLST0yc1hhz4MQb/edit?usp=sharing&ouid=103255996558795885045&rtpof=true&sd=true'
-  - area: Sciences
+  - area: High School- Science
     institution: Colegio Nacional Buenos Aires
     date_start: 2013-01-01
     date_end: 2018-12-31

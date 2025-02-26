@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Science comunication & Outreach
 cms_exclude: true
 #url: talk
 
