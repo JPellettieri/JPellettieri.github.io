@@ -49,7 +49,8 @@ sections:
   - block: collection
     id: projects
     content:
-      title: 
+      title: Projects
+      subtitle: A selection of projects I've worked on in the past few years
       filters:
         folders:
           - project  
