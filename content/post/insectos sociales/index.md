@@ -44,4 +44,4 @@ Unlike other ants, Argentine Ants lack a clear worker caste division and maintai
 
 Social insects demonstrate extraordinary cooperation, communication, and adaptation skills. Whether through waggle dances, pheromone-based colony recognition, or strategic foraging, these tiny creatures shape ecosystems and provide insights into collective intelligence. 
 
-![insectos-sociales](JPellettieri/JPellettieri.github.io/content/post/insectos sociales/posters semana biologia insectos.jpg)
+![insectos-sociales](posters semana biologia insectos.jpg)
