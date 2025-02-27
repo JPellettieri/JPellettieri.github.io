@@ -37,16 +37,6 @@ sections:
     design:
       show_skill_percentage: false
   - block: collection
-    id: talks
-    content:
-      title: Science Communication & outreach
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
     id: projects
     content:
       title: Projects
@@ -60,7 +50,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Science Communication & outreach
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -86,6 +76,18 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: collection
+    id: talks
+    content:
+      title: Lectures 
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 2
+  
+ 
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
