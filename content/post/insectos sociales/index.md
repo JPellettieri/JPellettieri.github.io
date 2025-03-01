@@ -46,5 +46,4 @@ Social insects demonstrate extraordinary cooperation, communication, and adaptat
 
 ![insectos-sociales](posters-insectos.jpg)
 
-[Posters](posters-sem-biol.pdf) 
 
