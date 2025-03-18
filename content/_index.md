@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: https://www.canva.com/design/DAGh53kTwPQ/P1zYBCbrpNMwuM9H5oem3g/view?utm_content=DAGh53kTwPQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6f8cf36d37
     design:
       css_class: dark
       background:
