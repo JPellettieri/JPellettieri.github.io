@@ -118,28 +118,33 @@ languages:
 
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Fellow supervised by Dr. Farina Walter M. 
+    company_name: Laboratory of Eusocial Insects, FCEN, UBA
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-08-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      * Awarded CIN Stimulus Scholarship - 2024
+      * Conducted biostatistical analysis with generalized mixed models
+  - position: Research Assistant to Dra. GOROSITO, IRENE L.
+    company_name: Population Ecology Laboratory, FCEN, UBA
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-04-01
+    date_end: ''
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Estimated age in sigmodontine rodents using Bayesian methods.
+  - position: Research Assistant to Dra. FERNANDEZ, M. SOLEDAD
+    company_name: Biostatistics Laboratory, FCEN, UBA
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-04-01
+    date_end: 2024-12-01
+    summary: |
+      * Analyzed national urban health data in R: data exploration, restructuring, statistical modeling, and graphical visualization.
+      * Earned an international award for the analysis.
+
 
 
 # Awards.
