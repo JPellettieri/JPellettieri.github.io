@@ -1,28 +1,29 @@
 ---
-title: Example Talk
+title: Árboles como registro de actividad solar y condiciones climáticas terrestres
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+event: Environmental Ecology Colloquium
+event_url: https://docs.google.com/presentation/d/1729lj5d37dhfIF98m5um5VKM4azGXbmm77Z1B0wq1iE/edit?usp=sharing
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+location: FCEN-UBA-Ciudad de Buenos Aires
+#address:
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: '94305'
+#  country: United States
+
+summary: Tree rings capture variations in radioactive carbon-14, formed by cosmic radiation influenced by solar activity.
+abstract: Solar activity plays a crucial role in modulating cosmic radiation reaching the Earth. When high-energy cosmic rays interact with atmospheric particles, they generate radioactive isotopes, such as carbon-14, which are incorporated into tree rings as trees grow. By studying these isotopic variations in annual growth rings, researchers can reconstruct historical solar activity and its impact on Earth's climate. This presentation examines the correlation between solar cycles, cosmic radiation, and tree-ring records, demonstrating how dendrochronology serves as a powerful tool for understanding past solar behavior and climate dynamics.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: '2024-04-01T13:00:00Z'
+date_end: '2024-04-01T15:00:00Z'
+all_day: True
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+#publishDate: '2017-01-01T00:00:00Z'
 
 authors:
   - admin
@@ -33,18 +34,18 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  #focal_point: Right
 
 #links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+#url_code: 'https://github.com'
+#url_pdf: ''
+url_slides: 'https://docs.google.com/presentation/d/1729lj5d37dhfIF98m5um5VKM4azGXbmm77Z1B0wq1iE/edit?usp=sharing'
+#url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -58,8 +59,8 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+#projects:
+#  - example
 ---
 
 {{% callout note %}}
