@@ -1,10 +1,10 @@
 ---
-title: Root development in bio-rolls for the reintroduction of aquatic plants in urban streams.
-date: 2024-09-11
-external_link: https://github.com/JPellettieri/GAB
+title: Exposure of minors to tobacco smoke at home by socioeconomic level
+date: 2025-04-05
+external_link: https://github.com/JPellettieri/tabaquismo-en-infancias
 tags:
-  - R - Power Point
+  - R - Illustrator - Public Health
 ---
 
-Comprehensive exploratory analysis and non-parametric tests on data collected by the Arroyo San Francisco cooperative, which focuses on urban stream restoration through phytoremediation.   
+Children’s exposure to secondhand smoke at home varies by socioeconomic status. Data were analyzed in RStudio using statistical models. Results highlight social inequality in indoor air pollution.  
 
