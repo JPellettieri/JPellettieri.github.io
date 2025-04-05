@@ -106,7 +106,7 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
-  - #block: markdown
+# # - #block: markdown
     #content:
     #  title: '📚 My Research'
     #  subtitle: ''
@@ -118,7 +118,7 @@ sections:
     #    Please reach out to collaborate 😃
     #design:
     #  columns: '1'
-  - #block: collection
+#  - #block: collection
     #id: papers
     #content:
     #  title: Featured Publications
@@ -129,7 +129,7 @@ sections:
     #design:
     #  view: article-grid
     #  columns: 2
-  - #block: collection
+#  - #block: collection
     #content:
     #  title: Recent Publications
     #  text: ""
