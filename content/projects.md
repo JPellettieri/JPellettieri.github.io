@@ -10,8 +10,8 @@ sections:
     id: projects
     content:
       title: Projects
-      subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      subtitle: ""
+      text: A selection of projects I've worked on in the past few years
       # Display content from the `content/project/` folder
       filters:
         folders:
